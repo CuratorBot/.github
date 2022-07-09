@@ -2,6 +2,18 @@
 
 ![Curator Header](https://i.imgur.com/dzBZ1F6.png)
 
+<div align=center>
+   <a href="https://top.gg/bot/816152179101663312">
+     <img src="https://top.gg/api/widget/servers/816152179101663312.svg">
+   </a> 
+   <a href="https://top.gg/bot/816152179101663312">
+     <img src="https://top.gg/api/widget/upvotes/816152179101663312.svg">
+   </a> 
+   <a href="https://top.gg/bot/816152179101663312">
+     <img src="https://top.gg/api/widget/owner/816152179101663312.svg">
+   </a>
+</div>
+
 
 ## About Us 🙋🏻‍♀️
 
@@ -65,7 +77,7 @@
 ## FAQs ❓
 
 1. Why won't the channel delete when its empty?
-   > This is because of missing permissions. Make sure the Curator's Role is at the top of the role list and has the Administrator permission in order to fix the problem. Another solution is to re-invite the bot by typing `/invite`. This would reset/re-apply Curator's role with a fresh set of permissions.
+   > This is because of missing permissions or missing access. Make sure the Curator's role is at the top of the role list and has access to the channel. Another solution is to re-invite the bot by typing `/invite` then re-setup your channels. This would reset/re-apply Curator's role with a fresh set of permissions.
 1. How do I setup clone channels?
    > You can setup clone channels by simply typing `/setup clone`. This would create a clone channel category and a VC at the very bottom of the server. The clone channel's category would be automatically selected for the `/clone` manager.
 1. How do I use `/clone`?
