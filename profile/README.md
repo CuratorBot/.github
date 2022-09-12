@@ -1,4 +1,4 @@
-## Hi, this is Curator 👋🏻
+# Hi, this is Curator 👋🏻
 
 ![Curator Header](https://i.imgur.com/dzBZ1F6.png)
 
@@ -11,6 +11,11 @@
    </a> 
    <a href="https://top.gg/bot/816152179101663312">
      <img src="https://top.gg/api/widget/owner/816152179101663312.svg">
+   </a>
+</div>
+<div align=center>
+   <a href="https://discord.com/api/oauth2/authorize?client_id=816152179101663312&permissions=378245610544&scope=bot%20applications.commands" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Invite%20Me!-%2300E575?style=for-the-badge" />
    </a>
 </div>
 
@@ -33,7 +38,8 @@
 
 ## Initial Setup ✔
 
-> For server owners, setting Curator up is as easy as typing **`/setup normal`**!
+- [Invite](https://discord.com/api/oauth2/authorize?client_id=816152179101663312&permissions=378245610544&scope=bot%20applications.commands) the bot if you haven't yet!
+- For server owners, setting Curator up is as easy as typing **`/setup normal`**!
 
 ## Commands ✨
 
