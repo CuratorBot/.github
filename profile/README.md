@@ -58,8 +58,7 @@
 - `enable` - Enables a command in your server
 - `disable` - Disables a commands in your server
 - `commandList` - Displays the commands that are enabled/disabled!
-- `settings` - Displays the current layout of the channels manged by Curator
-- `setrole` - Sets the default role of each channel shown in the settings
+- `settings` - Manages the bot's settings in your server
 
 ### Voice Commands 🔊
 
